@@ -12,7 +12,7 @@ in {
 
 		cp ${./i3lock-color} ${home}/.config/i3lock-color
 		chown ${username}:${group} ${home}/.config/i3lock-color
-		chmod 600 ${home}/.config/i3lock-color
+		chmod 700 ${home}/.config/i3lock-color
 	'';
 
 	environment.systemPackages = with pkgs; [
