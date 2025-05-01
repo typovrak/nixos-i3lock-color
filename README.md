@@ -1,4 +1,4 @@
-# 💤 NixOS I3lock Color
+# 💤 NixOS I3Lock Color
 
 > Declarative NixOS module to deploy i3lock-color with Catppuccin mocha green theme and secure per-user config.
 
