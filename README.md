@@ -124,7 +124,7 @@ Lock your screen with i3lock-color and the Catppuccin mocha green theme
 
 ## 📚 Learn more
 
-- 🔒 [i3lock-color GitHub repo](https://github.com/Raymo111/i3lock-color): Official source for i3lock-color with build instructions and config options.
+- 🔒 [i3lock-color GitHub repo](https://github.com/Raymo111/i3lock-color) : Official source for i3lock-color with build instructions and config options.
 
 ## 🌐 Discover my NixOS system portal
 
